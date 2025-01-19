@@ -1,5 +1,0 @@
-mkdir -p test
-cp * ./test
-cd test
-../badhub remote "https://github.com/JohnAlexINL/badhub.git"
-../badhub [TEST] push our local code upstream from badhub

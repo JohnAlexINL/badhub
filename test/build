@@ -1,2 +1,0 @@
-rm -rf ./badhub ./test
-gcc -o badhub badhub.c

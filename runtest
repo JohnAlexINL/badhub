@@ -1,0 +1,4 @@
+mkdir -p test
+cd test
+../badhub gh https://github.com/JohnAlexINL/badhub.git
+cd ../test && ls -a .ignore
